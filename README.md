@@ -1,14 +1,5 @@
 ---
 
-# User Management API
-
-This is a simple mock API for managing users. It allows performing CRUD operations such as creating, reading, updating, and deleting user data.
-
-# Base URL
-
-```
-https://673f63cfa9bc276ec4b8653b.mockapi.io/api/v1
-```
 
 ---
 
